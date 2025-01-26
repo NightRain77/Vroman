@@ -22,3 +22,9 @@ a {
     padding-left: 50pt;
     padding-right: 50pt;
 }
+body {
+    background-image: url('/docs/images/OldPaper.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
